@@ -1,3 +1,3 @@
 # Demo
 
-this is file for some documentations.
+this is documentation file.
